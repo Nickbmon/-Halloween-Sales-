@@ -1,0 +1,28 @@
+body{
+    background-image:url("https://cf.ltkcdn.net/candles/images/orig/101526-225x300-Halloween.jpg");
+    
+}
+h1{
+    color:red;
+    display: flex;
+    justify-content:center;
+    font-size:60px;
+    font-family: 'Creepster', cursive;
+    }
+img{
+    width: 200px;
+}
+#cd{
+    height:100px;
+    width:200px;
+    }
+#ct{
+    height:100px;
+    width:200px;
+    }    
+#pum{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    
+    }
